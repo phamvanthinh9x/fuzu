@@ -1,0 +1,125 @@
+.product_img .img_item{
+	width: 555px;
+	height: 513px;
+
+}
+.product_detail{
+	font-family: Tahoma;
+}
+.product_detail .sp_detail_1{
+	font-weight: bold;
+}
+.product_detail .sp_detail_2{
+	color: #ff5c01;
+	font-size: 17px;
+	font-weight: bold;
+}
+.product_detail .sp_detail_3{
+	font-weight: bold;
+	font-size: 19px;
+    color: #fe0000;
+}
+.product_detail .sp_detail_4{
+	font-size: 12px;
+    color: #41b934;
+    font-weight: bold;
+    font-style: italic;
+}
+.product_detail .lh_datmua{
+	width: 200px;
+	height: 37px;
+	line-height: 37px;
+	background: #0eaf38;
+	text-align: center;
+}
+.product_detail .lh_datmua .link_lh{
+	color: white;
+}
+.product_detail .khuyenmai{
+	padding: 10px;
+    margin: 3px 0px 10px 0px;
+    border: 1px dashed #fe0000;
+}
+.product_detail .khuyenmai .colo_km{
+	font-size: 16px;
+	color: #fe0000;
+	font-weight: bold;
+}
+.about_product{
+	width: 55%;
+}
+.about_product .ul_about{
+	list-style: none;
+	display: flex;
+	padding-left: 0px;
+}
+.about_product .ul_about .li_about{
+	padding: 14px 15px 10px;
+	background: #e5e5e5;
+	margin-left: 3px;
+	font-size: 14px;
+	text-transform: uppercase;
+	border-radius: 4px 4px 0 0;
+}
+.about_product .ul_about .li_about:hover{
+	border-top: 2px solid red;
+	padding-top: 12px;
+	background: white;
+}
+
+
+
+.comment_contact{
+	height: 78px;
+	margin-top: 20px;
+	padding-top: 10px;
+	border: 1px solid #ebebeb;
+	padding-left: 82px;
+	background: url(image/diachi.png) no-repeat left 10px top 10px;
+	font-family: "Roboto",Sans-serif;
+}
+.comment_contact .text_contact{
+	color: #e9291d;
+    font-size: 18px;
+    font-weight: 700;
+    text-transform: none;
+    font-style: normal;
+    text-decoration: none;
+    line-height: 1.44em;
+    letter-spacing: 0px;
+    margin-top: 5px;
+}
+.comment_contact .text_contact_2{
+	font-size: 16px;
+}
+.form_lh .ip_form .input_lh{
+	width: 100%;
+	font-size: 16px;
+    min-height: 47px;
+    padding: 6px 16px;
+    border-radius: 4px;
+    outline: none;
+    border: 1px solid #d8d8d8;
+    margin-top: 10px;
+}
+.form_lh .ip_form .ip_fomat{
+	height: 102px;
+}
+.btn_lh{
+	width: 100%;
+	background: #e92918;
+	outline: none;
+	border: none;
+	padding: 15px 30px;
+	border-radius: 5px;
+	color:white;
+	font-size: 16px;
+	margin-top: 10px;
+}
+.sent_mes{
+	color: #3c4b71;
+	font-family: "Montserrat",Sans-serif;
+    font-weight: 500;
+    margin-top: 20px;
+    margin-bottom: 0px !important;
+}
