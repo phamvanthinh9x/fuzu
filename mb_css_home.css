@@ -1,17 +1,51 @@
 @media only screen and (max-width: 576px) {
    .logo{
-   	  display: none;
+   	display: none;
    }
    .bg_top_2{
-   	  display: none;
+   	height: auto;
+   }
+   .bg_top_2 .menu .nav_menu .ul_menu {
+      display: block;
    }
    .fomat_fas{
-   	  margin-top: 6px;
-   	  margin-right: 10px;
-   	  display: block !important;
+   	margin-top: 6px;
+   	margin-right: 10px;
+   	display: block !important;
    }
    .fa-bars:before {
       color: white;
       font-size: 25px;
+   }
+   .comment_contact{
+      padding-top: 0px;
+   }
+   .footer_1 .content_contact {
+     margin-left: 0px;
+   }
+   .footer_2 .banquyen {
+     color: white;
+     margin-left: 0px;
+   }
+   .product_img .img_item {
+     width: 100%;
+     height: auto;
+   }
+   .footer_2 {
+     height:auto;
+     background: rgb(76,20,132);
+   }
+   .slick-prev:before, .slick-next:before {
+     font-size: 20px;
+   }
+   .slick-prev {
+    left: 10px;
+   }
+   .slick-next {
+    right: 10px;
+   }
+   .bg_top_2 .menu .nav_menu .ul_menu .li_menu {
+      text-align: left;
+      background: unset;
    }
 }

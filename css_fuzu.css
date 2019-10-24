@@ -63,7 +63,7 @@ body {
     content:'/';
     margin:0 5px;
 }
-.list_item .title_son{
+.title_son{
 	text-transform: uppercase;
 	color: #0686d2;
 	font-size: 20px;
@@ -105,4 +105,9 @@ body {
 }
 .footer_2 .ct_icon_ft{
 	line-height: 60px;
+}
+.notice_product .link_notice{
+	color: #337ab7;
+    font-weight: bold;
+    text-transform: uppercase;
 }

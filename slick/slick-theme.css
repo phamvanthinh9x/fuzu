@@ -24,7 +24,7 @@
     z-index: 100000;
     position: absolute;
     top: 50%;
-
+    opacity: 0.6;
     display: block;
 
     width: 20px;
@@ -79,7 +79,7 @@
 
 .slick-prev
 {
-    left: 100px;
+    left: 15px;
 }
 [dir='rtl'] .slick-prev
 {
@@ -97,7 +97,7 @@
 
 .slick-next
 {
-    right: 100px;
+    right: 58px;
     z-index: 100000;
 }
 [dir='rtl'] .slick-next
