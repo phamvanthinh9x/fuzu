@@ -1,0 +1,17 @@
+@media only screen and (max-width: 576px) {
+   .logo{
+   	  display: none;
+   }
+   .bg_top_2{
+   	  display: none;
+   }
+   .fomat_fas{
+   	  margin-top: 6px;
+   	  margin-right: 10px;
+   	  display: block !important;
+   }
+   .fa-bars:before {
+      color: white;
+      font-size: 25px;
+   }
+}

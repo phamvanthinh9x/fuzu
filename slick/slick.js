@@ -3014,7 +3014,7 @@
 
 
 
-
+/*
 $(document).on('ready', function() {
        $('.slider-for').slick({
          autoplay: true,
@@ -3093,3 +3093,4 @@ $(document).on('ready', function() {
         infinite: true
       });
     });
+    */
